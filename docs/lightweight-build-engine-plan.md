@@ -98,7 +98,7 @@ The lightweight engine must not shell out to an arbitrary executable or assume f
 - `runtime/build/toolchain/D8Adapter.kt`
 - `runtime/build/toolchain/ApkPackager.kt`
 - `runtime/build/cache/BuildCache.kt`
-- `runtime/build/GradlePr ootBuildEngine.kt`: adapter around the existing PRoot/Gradle path (name can be normalized to `GradlePRootBuildEngine.kt` in implementation).
+- `runtime/build/GradlePRootBuildEngine.kt`: adapter around the existing PRoot/Gradle path (name can be normalized to `GradlePRootBuildEngine.kt` in implementation).
 
 ## First implementation boundary
 
